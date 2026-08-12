@@ -3,6 +3,10 @@
 Experiência interativa criada especialmente para Heryka, combinando programação,
 academia e a origem da conexão pelo Instagram.
 
+## Site publicado
+
+https://bruno-exee.github.io/heryka/
+
 ## Executar localmente
 
 ```bash
